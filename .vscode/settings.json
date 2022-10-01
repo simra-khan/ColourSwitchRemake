@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\simra\\Documents\\Processing Application\\processing-4.0b1\\core\\library\\core.jar"
+    ]
+}
